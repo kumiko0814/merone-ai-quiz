@@ -1,0 +1,16 @@
+# clasp
+.clasprc.json
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+
+# 機密情報
+*-secret.*
+*.env
